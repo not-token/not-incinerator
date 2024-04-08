@@ -42,7 +42,7 @@ const contractName = "not-incinerator-v3";
 const functionNameBurn = "burn-nothing";
 const maxAmount = 10000000;
 
-const description = `By burning any amount of $NOT you'll receive a commemorative NFT in your wallet.
+const description = `By burning any amount of $NOT you'll decrease the circulating supply of $NOT tokens.
 To prevent sad mistakes, you can burn max 10,000,000 NOT with each transaction.
 <span style="color: red; font-size:15px;">WARNING:</span> Burning $NOT tokens is irreversible, once you commit to the burn you won't be able to retrieve your tokens!!`;
 
